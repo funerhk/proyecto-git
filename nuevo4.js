@@ -32,7 +32,8 @@ git branch "nombre de la nueva rama sin comillas"
 cambiar de rama
 git checkout "nombre de la rama sin comillas"
 
-
+muestra todos los commits del repositorio
+git log
 
 
 
