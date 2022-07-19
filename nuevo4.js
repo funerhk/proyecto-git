@@ -19,6 +19,18 @@ git commit -m "version 1.0"
 para consultar el estado del repositorio asi como las cambios y commits pendientes
 git status
 
+restaurar un archivo 
+git restore "nombre del archivo sin comillas"
+
+ver las ramas de git 
+git branch
+
+crear rama en git 
+git branch "nombre de la nueva rama sin comillas"
+
+cambiar de rama
+git checkout "nombre de la rama sin comillas"
+
 
 
 
