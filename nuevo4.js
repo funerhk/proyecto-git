@@ -21,6 +21,7 @@ git status
 
 restaurar un archivo 
 git restore "nombre del archivo sin comillas"
+git checkout -- "nombre del archivo sin comillas "
 
 ver las ramas de git 
 git branch
