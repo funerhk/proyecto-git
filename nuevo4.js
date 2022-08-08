@@ -38,3 +38,13 @@ git log
 editar la configuracion global 
 git config --global --edit
 
+
+subir a repo remoto 
+git remote add origin git@github.com:funerhk/proyecto-git.git
+
+para subir el primer comit inicial se usa push 
+git push -u origin master
+
+repasar git pull
+repasar git push 
+repasar git merge 
