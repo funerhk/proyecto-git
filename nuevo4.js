@@ -39,13 +39,17 @@ editar la configuracion global
 git config --global --edit
 
 
-subir a repo remoto 
+subir a repo remoto; esta instruccion vincula el repositorio local con el repositorio remoto y el git te genera esta instruccion cuando creas un repo remoto 
 git remote add origin git@github.com:funerhk/proyecto-git.git
 
 para subir el primer comit inicial se usa push 
 git push -u origin master
 
-para subir nuevos cambios el repositorio remoto, primero se tiene que guardar los cambios localmente,
-se hace commit localmente, posterior se hace push, posteriormente se realiza pull
+para subir nuevos cambios al repositorio remoto, primero se tiene que guardar los cambios localmente,
+se hace commit localmente, posterior se hace push.
+
+
+para bajar los cambios del repositorio remoto al repositorio local se emplea la instruccion.
+git pull.
 
 repasar git merge 
