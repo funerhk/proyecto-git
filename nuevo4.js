@@ -38,7 +38,3 @@ git log
 editar la configuracion global 
 git config --global --edit
 
-
-
-
-numero de contrato learnex
