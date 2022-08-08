@@ -35,5 +35,10 @@ git checkout "nombre de la rama sin comillas"
 muestra todos los commits del repositorio
 git log
 
+editar la configuracion global 
+git config --global --edit
 
 
+
+
+numero de contrato learnex
