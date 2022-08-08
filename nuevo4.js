@@ -45,6 +45,7 @@ git remote add origin git@github.com:funerhk/proyecto-git.git
 para subir el primer comit inicial se usa push 
 git push -u origin master
 
-repasar git pull
-repasar git push 
+para subir nuevos cambios el repositorio remoto, primero se tiene que guardar los cambios localmente,
+se hace commit localmente, posterior se hace push, posteriormente se realiza pull
+
 repasar git merge 
